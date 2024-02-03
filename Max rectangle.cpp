@@ -6,7 +6,6 @@ using namespace std;
 
 // } Driver Code Ends
 /*You are required to complete this method*/
-
 class Solution{
 private:
     vector<int> nextSmallerElement(int *arr, int n) {
